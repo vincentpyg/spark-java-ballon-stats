@@ -3,8 +3,8 @@
 
 | switch | value |
 |---|---|
-|`-i`| <input file/directory> |
-|`-o`| <output file>|
+|`-i`| input file/directory |
+|`-o`| output file|
 |`--local`| run in local mode|
 |`-t`| temperature unit. possible values: `celsius`, `fahrenheit`, `kelvin`|
 |`-d`| distance unit. posible values: `m`, `km`, `miles`|
